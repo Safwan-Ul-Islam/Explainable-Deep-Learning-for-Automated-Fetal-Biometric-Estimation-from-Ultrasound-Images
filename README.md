@@ -1,0 +1,2 @@
+# Explainable-Deep-Learning-for-Automated-Fetal-Biometric-Estimation-from-Ultrasound-Images
+The proposed system significantly reduces examination time and interobserver variability while enhancing diagnostic precision. These compelling results suggest that automated segmentation of ultrasound images can serve as an effective tool for early identification of fetal growth abnormalities such as intrauterine growth restriction and macrosomia.
