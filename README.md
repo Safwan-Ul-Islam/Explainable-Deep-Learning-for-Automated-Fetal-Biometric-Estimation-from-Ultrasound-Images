@@ -17,7 +17,7 @@ We developed and evaluated multiple deep learning–based segmentation models fo
 
 
 <p align="center">
-  <img src="Aalok_dataset.png" width="40%">
+  <img src="Aalok_dataset.png" width="70%">
 </p>
 
 ### Public Dataset
@@ -58,7 +58,7 @@ The following segmentation architectures were implemented and compared:
 
 
 <p align="center">
-  <img src="image10.png" width="40%">
+  <img src="image10.png" width="70%">
 </p>
 
 ## Evaluation Metrics
@@ -92,6 +92,11 @@ Model performance was assessed using:
 ## Explainable AI
 
 To enhance interpretability, **Grad-CAM** was applied to the top-performing model. This allows visualization of critical regions influencing predictions, improving clinical understanding and trust in AI-based decisions.
+
+
+<p align="center">
+  <img src="1.png" width="70%">
+</p>
 
 ---
 
