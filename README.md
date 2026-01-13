@@ -17,7 +17,7 @@ We developed and evaluated multiple deep learning–based segmentation models fo
 
 
 <p align="center">
-  <img src="Aalok_dataset.png" width="40%">
+  <img src="Aalok_dataset.png" width="70%">
 </p>
 
 ### Public Dataset
