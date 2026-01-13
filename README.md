@@ -93,6 +93,11 @@ Model performance was assessed using:
 
 To enhance interpretability, **Grad-CAM** was applied to the top-performing model. This allows visualization of critical regions influencing predictions, improving clinical understanding and trust in AI-based decisions.
 
+
+<p align="center">
+  <img src="1.png" width="40%">
+</p>
+
 ---
 
 ## Clinical Impact
