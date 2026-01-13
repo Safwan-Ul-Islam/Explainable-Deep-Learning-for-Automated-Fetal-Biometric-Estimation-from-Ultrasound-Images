@@ -15,6 +15,11 @@ We developed and evaluated multiple deep learning–based segmentation models fo
 
 ## Datasets
 
+
+<p align="center">
+  <img src="Aalok_dataset.png" width="40%">
+</p>
+
 ### Public Dataset
 
 * **1,335 fetal head ultrasound images**
@@ -50,6 +55,11 @@ The following segmentation architectures were implemented and compared:
 * TransUNet
 
 ---
+
+
+<p align="center">
+  <img src="image10.png" width="40%">
+</p>
 
 ## Evaluation Metrics
 
@@ -122,12 +132,5 @@ This project is intended **for research and clinical decision support only**. It
 
 ---
 
-If you want, I can also:
 
-* Add **installation & training commands**
-* Create a **clean folder structure**
-* Shorten this for **conference or journal code release**
-* Write a **citation (BibTeX)**
-
-Just tell me.
 
