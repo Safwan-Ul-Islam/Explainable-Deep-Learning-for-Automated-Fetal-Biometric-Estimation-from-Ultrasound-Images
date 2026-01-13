@@ -58,7 +58,7 @@ The following segmentation architectures were implemented and compared:
 
 
 <p align="center">
-  <img src="image10.png" width="40%">
+  <img src="image10.png" width="70%">
 </p>
 
 ## Evaluation Metrics
@@ -95,7 +95,7 @@ To enhance interpretability, **Grad-CAM** was applied to the top-performing mode
 
 
 <p align="center">
-  <img src="1.png" width="40%">
+  <img src="1.png" width="70%">
 </p>
 
 ---
