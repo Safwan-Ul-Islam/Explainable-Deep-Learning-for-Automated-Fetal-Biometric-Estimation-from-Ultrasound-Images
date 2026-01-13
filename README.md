@@ -22,6 +22,8 @@ We developed and evaluated multiple deep learning–based segmentation models fo
 
 ### Public Dataset
 
+link: https://hc18.grand-challenge.org
+
 * **1,335 fetal head ultrasound images**
 * Binary segmentation masks
 * Pixel-size metadata
